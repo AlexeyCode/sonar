@@ -42,11 +42,39 @@ public class HelloWorldTest {
   @Test
   public void sayHello7() {
     new HelloWorld().sayHello();
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
   }
 
   @Test
   public void sayHello8() {
     new HelloWorld().sayHello();
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
+    System.out.println("HELLO");
   }
 
   @Test
