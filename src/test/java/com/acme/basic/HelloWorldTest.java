@@ -16,22 +16,22 @@ public class HelloWorldTest {
 
     @Test
     public void sayHello2() {
-      new HelloWorld().sayHello();
+      new HelloWorld().sayHello2();
   }
 
   @Test
   public void sayHello3() {
-    new HelloWorld().sayHello();
+    new HelloWorld().sayHello3();
   }
 
   @Test
   public void sayHello4() {
-    new HelloWorld().sayHello();
+    new HelloWorld().sayHello4();
   }
 
   @Test
   public void sayHello5() {
-    new HelloWorld().sayHello();
+    new HelloWorld().sayHello5();
   }
 
   @Test
